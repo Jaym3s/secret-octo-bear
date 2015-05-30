@@ -1,2 +1,3 @@
-# secret-octo-bear
-node website
+# jaymes-us
+
+a [Sails](http://sailsjs.org) application

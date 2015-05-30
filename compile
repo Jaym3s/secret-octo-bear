@@ -1,0 +1,1 @@
+dust-compiler -s views/partials/ -d assets/templates/ --bootstrap --nonotify

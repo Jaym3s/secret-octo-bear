@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Dust SPA</title>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+  <title>Jaymes Waters</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.4/spacelab/bootstrap.min.css">
 </head>
 <body>
   <div class="container">
@@ -14,14 +14,14 @@
           <li role="presentation"><a href="#" class="links" data-template="contact">Contact</a></li>
         </ul>
       </nav>
-      <h3 class="text-muted">SPA - DustJS Templates, SailsJS Architecture</h3>
+      <h3 class="text-muted">Jaymes Waters</h3>
     </div>
     <br/>
     <div id="template">
       {> "partials/home"/}
     </div>
     <footer class="footer">
-      <p>Styled by Bootstrap&copy;</p>
+      <p>2015&copy;</p>
     </footer>
   </div>
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/dustjs-linkedin/2.7.1/dust-full.min.js"></script>
